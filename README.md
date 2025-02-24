@@ -1,6 +1,5 @@
 # Django教程
->
-> <https://www.w3cschool.cn/django/django-first-app.html>
+> Django_Vue3_Admin 是一个集成djangorestframework 和drf-yasg 以及 Vue3 前端框架的现代化管理后台系统。它集成了多个强大的库和技术栈，以提供高效、灵活且易于扩展的开发体验。
 
 #### 创建Django项目
 
